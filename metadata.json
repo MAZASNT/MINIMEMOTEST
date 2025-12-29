@@ -1,0 +1,5 @@
+{
+  "name": "Tarot",
+  "description": "A mystical Tarot reading application using Gemini AI to interpret past, present, and future spreads based on user questions.",
+  "requestFramePermissions": []
+}
